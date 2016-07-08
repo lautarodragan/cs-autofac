@@ -1,6 +1,6 @@
 ﻿using LautaroDragan.Samples.Autofac.Monsters;
 
-namespace LautaroDragan.Samples.Autofac
+namespace LautaroDragan.Samples.Autofac.Heroes
 {
     class Mario : IHero
     {

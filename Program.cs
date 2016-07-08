@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using LautaroDragan.Samples.Autofac.Heroes;
 using LautaroDragan.Samples.Autofac.Monsters;
 
 namespace LautaroDragan.Samples.Autofac

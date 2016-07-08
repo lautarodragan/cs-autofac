@@ -1,4 +1,4 @@
-﻿namespace LautaroDragan.Samples.Autofac
+﻿namespace LautaroDragan.Samples.Autofac.Heroes
 {
     interface IHero
     {
